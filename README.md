@@ -3,7 +3,7 @@
 
 I have established my own company in terms of software, you can visit my website for support or communication.
 
-<a href="https://devialt.com/" target="blank"><img align="center" src="https://devialt.com/en/images/devialt-logo.png" alt="ozguraltintop"  /></a>
+<a href="https://devialt.com/" target="blank"><img align="center" src="https://devialt.com/en/images/devialt-logo.png" alt="ozguraltintop" style="width:100px" /></a>
 
 
 
