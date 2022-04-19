@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Özgür</h1>
 <h3 align="center">I am a Engineer,I am interested in PHP development and web applications.</h3>
 
+I have established my own company in terms of software, you can visit my website for support or communication.
+
+<a href="https://devialt.com/" target="blank"><img align="center" src="https://devialt.com/en/images/devialt-logo.png" alt="ozguraltintop" height="30" width="40" /></a>
+
+
+
+We are pleased to publish a website that can reflect your brand effectively and clearly,
+that looks right on all devices, and is optimized for search engines and user experience.
+Personal, corporate, e-commerce, blog site setup, 3d animation products and all multimedia services.
+
 - 🔭 I’m currently working on [My Cargo + System](turkeycargo.com.tr/my-cargo)
 
 - 🌱 I’m currently learning **Electon JS and Lavarel**
@@ -24,7 +34,7 @@
 <a href="https://linkedin.com/in/ozguraltintop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozguraltintop" height="30" width="40" /></a>
 <a href="https://instagram.com/ozguraltintop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ozguraltintop" height="30" width="40" /></a>
 <a href="https://medium.com/ozguraltintop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ozguraltintop" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/uczerfpzxfip736jcsqx3qka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczerfpzxfip736jcsqx3qka" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/uczerfpzxfip736jcsqx3qka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczerfpzxfip736jcsqx3qka" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
