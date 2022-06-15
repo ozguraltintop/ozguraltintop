@@ -21,7 +21,7 @@ Personal, corporate, e-commerce, blog site setup, 3d animation products and all 
 
 - 👨‍💻 All of my projects are available at <a href="https://www.devialt.com/reference">devialt references</a>
 
-- 📝 I regularly write articles on [devialt.com](devialt.com)
+- 📝 I regularly write articles on <a href="https://www.devialt.com">devialt</a>
 
 - 💬 Ask me about **PHP , JS , CSS , Electron JS**
 
