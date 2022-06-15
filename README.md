@@ -11,7 +11,7 @@ We are pleased to publish a website that can reflect your brand effectively and 
 that looks right on all devices, and is optimized for search engines and user experience.
 Personal, corporate, e-commerce, blog site setup, 3d animation products and all multimedia services.
 
-- 🔭 I’m currently working on [My Cargo + System](turkeycargo.com.tr/my-cargo)
+- 🔭 I’m currently working on  <a href="https://www.turkeycargo.com.tr/my-cargo">My Cargo + System</a>
 
 - 🌱 I’m currently learning **Electon JS and Lavarel**
 
@@ -27,7 +27,7 @@ Personal, corporate, e-commerce, blog site setup, 3d animation products and all 
 
 - 📫 How to reach me **altintopozgur@gmail.com**
 
-- 📄 Know about my experiences [linkedin.com/ozguraltintop](linkedin.com/ozguraltintop)
+- 📄 Know about my experiences <a href="https://www.linkedin.com/ozguraltintop">linkedin</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
