@@ -15,7 +15,7 @@ Personal, corporate, e-commerce, blog site setup, 3d animation products and all 
 
 - 🌱 I’m currently learning **Electon JS and Lavarel**
 
-- 👯 I’m looking to collaborate on [Devialt](www.devialt.com/reference)
+- 👯 I’m looking to collaborate on [Devialt]<a href="www.devialt.com">devialt</a>
 
 - 🤝 I’m looking for help with **Electron JS**
 
