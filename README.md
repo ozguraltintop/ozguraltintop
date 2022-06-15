@@ -19,7 +19,7 @@ Personal, corporate, e-commerce, blog site setup, 3d animation products and all 
 
 - 🤝 I’m looking for help with **Electron JS**
 
-- 👨‍💻 All of my projects are available at [www.devialt.com/reference](www.devialt.com/reference)
+- 👨‍💻 All of my projects are available at <a href="https://www.devialt.com/reference">devialt references</a>
 
 - 📝 I regularly write articles on [devialt.com](devialt.com)
 
