@@ -32,7 +32,8 @@ Personal, corporate, e-commerce, blog site setup, 3d animation products and all 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/ozguraltintop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ozguraltintop" height="30" width="40" /></a>
-<a href="https://instagram.com/ozguraltintop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ozguraltintop" height="30" width="40" /></a>
+<a href="https://instagram.com/zgrfo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ozguraltintop" height="30" width="40" /></a>
+<a href="https://twitter.com/zgrfo" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/3670/3670151.png" alt="ozguraltintop" height="30" width="40" /></a>
 <a href="https://medium.com/ozguraltintop" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="ozguraltintop" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/uczerfpzxfip736jcsqx3qka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uczerfpzxfip736jcsqx3qka" height="30" width="40" /></a>
 </p>
