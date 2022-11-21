@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Engineer | PHP Developer | Founder @devialt
 -------------------------------------------
 
-I have established my own company in terms of software, you can visit my website for support or communication.
+I have established my own company in terms of software, you can visit my website for support or communication.<br>
 <a href="https://devialt.com/" target="blank"><img align="center" src="https://devialt.com/en/images/devialt-logo.png" alt="ozguraltintop" style="width:100px" /></a>
 
 * 🌍  I'm based in Istanbul
