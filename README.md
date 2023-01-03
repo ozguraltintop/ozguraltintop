@@ -8,7 +8,7 @@ I have established my own company in terms of software, you can visit my website
 <a href="https://devialt.com/" target="blank"><img align="center" src="https://devialt.com/en/images/devialt-logo.png" alt="ozguraltintop" style="width:100px" /></a>
 
 * 🌍  I'm based in Istanbul
-* 🖥️  See my portfolio at [Product](http://www.devialt.com)
+* 🖥️  See my portfolio at [Product](https://www.devialt.com)
 * ✉️  You can contact me at [altintopozgur@gmail.com](mailto:altintopozgur@gmail.com)
 * 🚀  I'm currently working on [My App](http://www.devialt.com)
 * 🧠  I'm learning Vue JS and Laravel
