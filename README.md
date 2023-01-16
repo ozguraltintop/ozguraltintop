@@ -10,7 +10,7 @@ I have established my own company in terms of software, you can visit my website
 * 🌍  I'm based in Istanbul
 * 🖥️  See my portfolio at [Product](https://www.devialt.com)
 * ✉️  You can contact me at [altintopozgur@gmail.com](mailto:altintopozgur@gmail.com)
-* 🚀  I'm currently working on [My App](http://www.devialt.com)
+* 🚀  I'm currently working on [My App](https://www.devialt.com)
 * 🧠  I'm learning Vue JS and Laravel
 
 <a href="https://www.twitter.com/zgrfo" target="_blank" rel="noreferrer"><img
