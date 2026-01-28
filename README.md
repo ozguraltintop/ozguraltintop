@@ -5,17 +5,15 @@ Engineer | PHP Developer | Founder @devialt
 -------------------------------------------
 
 I have established my own company in terms of software, you can visit my website for support or communication.<br>
-<a href="https://devialt.com/" target="blank"><img align="center" src="https://devialt.com/en/images/devialt-logo.png" alt="ozguraltintop" style="width:100px" /></a>
+
 
 * 🌍  I'm based in Istanbul
-* 🖥️  See my portfolio at [Product](https://www.devialt.com)
-* ✉️  You can contact me at [altintopozgur@gmail.com](mailto:altintopozgur@gmail.com)
-* 🚀  I'm currently working on [My App](https://www.devialt.com.tr)
+* 🖥️  See my portfolio at [Product]
+* ✉️  You can contact me at 
+* 🚀  I'm currently working on [My App]
 * 🧠  I'm learning Vue JS and Laravel 
 
-<a href="https://www.twitter.com/zgrfo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/zgrfo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
+
 
 ### Skills
 
@@ -34,8 +32,5 @@ src="https://img.shields.io/twitter/follow/zgrfo?logo=twitter&style=for-the-badg
 </p>
 
 
-### Socials
-
-<p align="left"> <a href="https://discord.com/users/gus#5812" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/ozguraltintop" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zgrfo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/ozguraltintop/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/ozguraltintop" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/zgrfo" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/c/devialt8361" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a></p>
 
 ### Badges
