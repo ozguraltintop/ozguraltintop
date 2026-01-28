@@ -1,7 +1,7 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Özgür Altıntop
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Özgür 
 ======================================================================================================================================
 
-Engineer | PHP Developer | Founder @devialt
+Engineer | PHP Developer | Founder 
 -------------------------------------------
 
 I have established my own company in terms of software, you can visit my website for support or communication.<br>
